@@ -9,7 +9,7 @@ df = pd.read_csv('tweets.csv')
 df = df.reset_index()
 
 # Initialize a client with the API key.
-client = ZenoClient(API_KEY)
+client = ZenoClient("")
 
 project = client.create_project(
     name="Tweet Sentiment Analysis",
