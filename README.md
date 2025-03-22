@@ -30,3 +30,6 @@ Hints: For the slices you create, you should be able to justify why you want to 
 - If you have trouble downloading the datasets and/or running model inference, use `tweets.csv` shared in the folder
 - If you have trouble starting a local Zeno server, copy the code in `zenohub.py` to the notebook and follow the steps
 - If you have trouble using the GPTs provided, use plain ChatGPT for test case generation
+
+## Results
+![results](/image.png)
